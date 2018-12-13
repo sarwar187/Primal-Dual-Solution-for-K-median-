@@ -3,8 +3,8 @@ This repository contains Primal Dual Solution for the K-median Problem. There ar
 
 Once the files are ready, simply run the following k-median.py file. For the input configuration given in the sample weight.txt and facility.txt file the output looks like below:
 
-output:
-Best Case: Found 3 sets without combining solutions
+Output:
+Best Case: found 3 sets without combining solutions
 ---------------------------------------------------
 facility list -> [4, 6, 5]
 
