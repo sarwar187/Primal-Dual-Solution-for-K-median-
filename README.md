@@ -10,7 +10,7 @@ facility list -> [4, 6, 5]
 
 if we change the epsilon to a very high value like 10000 in the weights file, it would not be possible to get a specific k at the first shot. We will have to compute two different solutions for two different lambdas and combine them. Then the output will be: 
 
-could not find k sets by bisection search and we have to combine solutions S1 and S2
+Could not find k sets by bisection search and we have to combine solutions S1 and S2
 ------------------------------------------------------------------------------------
 facility list -> [5, 1, 2]
 
